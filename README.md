@@ -18,7 +18,7 @@ In my spare time, I enjoy spending time with friends and family, listening to mu
 ## 📄 Curriculum Vitae (CV)
 
 📎 **Download my CV:**  
-[CV – Cornelius Benle Tanoel](https://github.com/Cbenle/Cbenle/blob/main/Benle_Cornelius%20Resume.pdf)
+[CV – Cornelius Benle Tanoel](https://github.com/Cbenle/Cbenle/blob/main/CV.pdf)
 
 ---
 
