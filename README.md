@@ -8,10 +8,9 @@ In my spare time, I enjoy spending time with friends and family, listening to mu
 
 ---
 
-## 💻 Projects
+## [💻 Projects](projects.html)
 
-➡️ Repository: [Predicting Stock Market Liquidity](https://github.com/Cbenle/stock-liquidity-regression)
-
+Explore my work in stock market liquidity, Treasury PCA volatility, and AR/VAR modeling.
 ---
 
 ## 📄 Curriculum Vitae (CV)
