@@ -1,4 +1,4 @@
-<img src="pic.jpeg" alt="Cornelius Benle" width="200">
+![Quantitative Finance](Luminous%20quantitative%20finance%20yield%20curves.png)
 
 ##  About Me
 
