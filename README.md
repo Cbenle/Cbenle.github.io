@@ -11,6 +11,7 @@ In my spare time, I enjoy spending time with friends and family, listening to mu
 ## [💻 Projects](projects.html)
 
 Explore my work in stock market liquidity, Treasury PCA volatility, and AR/VAR modeling.
+
 ---
 
 ## 📄 Curriculum Vitae (CV)
