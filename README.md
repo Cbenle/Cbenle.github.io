@@ -1,5 +1,3 @@
-![Quantitative Finance](Luminous%20quantitative%20finance%20yield%20curves.png)
-
 ##  About Me
 
 I am a third-year Ph.D. student in **Statistics and Data Science**.My research interests include **stochastic finance**, **financial econometrics**, and **insurance and risk management**.
