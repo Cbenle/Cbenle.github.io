@@ -1,6 +1,6 @@
 <img src="pic.jpeg" alt="Cornelius Benle" width="200">
 
-## 👋 About Me
+##  About Me
 
 I am a third-year Ph.D. student in **Statistics and Data Science**.My research interests include **stochastic finance**, **financial econometrics**, and **insurance and risk management**.
 I was born and raised in **Ghana**, where I earned my **B.S. in Actuarial Science** from **Kwame Nkrumah University of Science and Technology (KNUST)**. My academic background in **Actuarial science** and **statistics** has shaped my interest in quantitative finance, risk analysis, and data-driven decision-making.
