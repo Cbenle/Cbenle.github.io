@@ -10,24 +10,24 @@ In my spare time, I enjoy spending time with friends and family, listening to mu
 
 ---
 
-## [💻 Projects](projects.html)
+## [ Projects](projects.html)
 
 Explore my work in stock market liquidity, Treasury PCA volatility, and AR/VAR modeling.
 
 ---
 
-## 📄 Curriculum Vitae (CV)
+##  Curriculum Vitae (CV)
 
 📎 **Download my CV:**  
 [CV – Cornelius Benle Tanoel](Academic%20CV.pdf)
 
 ---
 
-## 📬 Contact
+##  Contact
 
-- 📧 [Email me](mailto:cbenle@unr.edu)
-- 💼 [LinkedIn](https://linkedin.com/in/benle-cornelius-21617b259/)
-- 🌍 [GitHub](https://github.com/Cbenle)
+-  [Email me](mailto:cbenle@unr.edu)
+-  [LinkedIn](https://linkedin.com/in/benle-cornelius-21617b259/)
+-  [GitHub](https://github.com/Cbenle)
 
 ---
 
