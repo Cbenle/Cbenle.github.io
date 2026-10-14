@@ -29,5 +29,13 @@ Explore my work in stock market liquidity, Treasury PCA volatility, and AR/VAR m
 
 ---
 
+##  Stochastic & Finance Game
+
+[Play the game](math-sprint.html)
+
+Test your knowledge of stochastic processes, finance, and technical calculus.
+
+---
+
 _Last updated: October 2026_
 
